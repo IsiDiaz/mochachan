@@ -7,4 +7,4 @@ console.log (soma(2,3));
 function area(lado){
     return  lado**2;
 }
-area (5,6);
+console.log (area(6));
