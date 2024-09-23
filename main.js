@@ -1,1 +1,5 @@
-alert('Isis Diaz e Luanne Bermirio')
+// alert('Isis Diaz e Luanne Bermirio')
+function soma(num1, num2){
+return num1+num2;
+}
+soma (2,3);
