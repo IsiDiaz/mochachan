@@ -8,3 +8,8 @@ function area(lado){
     return  lado**2;
 }
 console.log (area(6));
+
+let areaTriangulo = function(base,altura){
+    return (base*altura)/2;
+}
+console.log (areaTriangulo(14))
