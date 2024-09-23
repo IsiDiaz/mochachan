@@ -13,3 +13,10 @@ let areaTriangulo = function(base,altura){
     return (base*altura)/2;
 }
 console.log (areaTriangulo(2,3))
+
+let nome = parseInt (prompt('Quanto é 2+2?'));
+let nome = parseInt (prompt('Quanto é 2+8?'));
+let nome = parseInt (prompt('Quanto é 2+8?'));
+document.write(4);
+document.write(10);
+document.write(10);
