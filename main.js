@@ -49,4 +49,4 @@ let estados = [
     'Goiás',
     'Distrito Federal',
     'Maranhão'
-]
+];
