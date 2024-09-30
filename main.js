@@ -20,3 +20,33 @@ let nome = parseInt (prompt('Quanto é 2+8?'));
 document.write(4);
 document.write(10);
 document.write(10);
+
+let estados = [
+    'Sergipe',
+    'Pará',
+    'Alagoas',
+    'Amapá',
+    'Roraima',
+    'Acre',
+    'Paraná',
+    'Rio Grande do Norte', 
+    'Rio Grande do Sul', 
+    'Paraiba', 
+    'Pernambuco', 
+    'Rio de Janeiro',
+    'São Paulo', 
+    'Minas Gerais', 
+    'Mato Grosso', 
+    'Mato Grosso do Sul', 
+    'Santa Catarina', 
+    'Espirito Santo', 
+    'Rondônia', 
+    'Ceará', 
+    'Bahia',
+    'Amazonas',
+    'Tocantins',
+    'Piáui',
+    'Goiás',
+    'Distrito Federal',
+    'Maranhão'
+]
