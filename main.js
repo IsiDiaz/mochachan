@@ -56,5 +56,5 @@ let i = 0;
 while(i<estados.lenght){
     console.log(i);
     console.log(estados[i]);
-    i = +1;
+    i = i+1;
 }
