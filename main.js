@@ -53,7 +53,8 @@ let estados = [
 ]
 
 let i = 0;
-while(i<10){
+while(i<estados.lenght){
     console.log(i);
+    console.log(estados[i]);
     i = i+1;
 }
